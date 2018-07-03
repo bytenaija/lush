@@ -1,0 +1,16 @@
+{
+  "name": "lushplans",
+  "version": "1.0.0",
+  "description": "A full stack test for lushplan.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Everistus Olumese <everistusolumese@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0"
+  }
+}
